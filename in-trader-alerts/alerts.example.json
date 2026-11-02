@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "id": "opening-bell",
+      "type": "opening_bell"
+    },
+    {
+      "id": "reliance-plan-stop",
+      "symbol": "RELIANCE",
+      "type": "stop",
+      "price": 1223.1,
+      "note": "plan stop: or-mid",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "reliance-plan-target",
+      "symbol": "RELIANCE",
+      "type": "target",
+      "price": 1245.9,
+      "note": "plan target",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "reliance-flat-by",
+      "symbol": "RELIANCE",
+      "type": "time",
+      "at": "15:05",
+      "label": "flat by",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "nifty-move-1",
+      "symbol": "NIFTY",
+      "type": "pct_move",
+      "pct": 1
+    }
+  ]
+}

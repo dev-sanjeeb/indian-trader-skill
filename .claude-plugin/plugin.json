@@ -1,0 +1,9 @@
+{
+  "name": "indian-day-trader-skill",
+  "description": "11 Claude skills for intraday trading on NSE and BSE: scan Nifty and F&O charts, read every NSE filing, time each entry and exit, size in rupees with Indian charges inside, and replay the outcome 10,000 times before you risk a rupee. Paper by default, never without your yes.",
+  "version": "1.0.0",
+  "author": {"name": "Rocky"},
+  "license": "MIT",
+  "keywords": ["claude-skills", "day-trading", "intraday", "nse", "bse", "nifty", "sensex", "zerodha", "kite", "india", "opening-range-breakout", "paper-trading"],
+  "skills": "./"
+}

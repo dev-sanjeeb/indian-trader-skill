@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "indian-day-trader-skill",
+  "description": "The Indian Day Trader skill pack for Claude (NSE/BSE)",
+  "owner": {"name": "Rocky"},
+  "plugins": [
+    {
+      "name": "indian-day-trader-skill",
+      "description": "Eleven skills for NSE/BSE intraday trading: chart scanner, news and filings monitor, entry timer, exit planner, time machine, risk manager, budget manager with Indian charges, Zerodha Kite order executor (paper by default, never without your yes), price alerts, results analyst and an insider / bulk-deal tracker.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
